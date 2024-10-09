@@ -1,10 +1,7 @@
 this is feature 2
 
 thoda or kaam kia
-<<<<<<< HEAD
-=======
 
 thoda or kaam aache se kia
 
 thoda or kaam kia aache se
->>>>>>> 8b54f8f (added more changes to feature2)
